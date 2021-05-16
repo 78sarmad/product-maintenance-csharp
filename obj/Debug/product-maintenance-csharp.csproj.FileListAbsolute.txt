@@ -1,0 +1,9 @@
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\bin\Debug\product-maintenance-csharp.exe.config
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\bin\Debug\product-maintenance-csharp.exe
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\bin\Debug\product-maintenance-csharp.pdb
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\obj\Debug\product-maintenance-csharp.csprojResolveAssemblyReference.cache
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\obj\Debug\Product_Maintenance.MainForm.resources
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\obj\Debug\product_maintenance_csharp.Properties.Resources.resources
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\obj\Debug\product-maintenance-csharp.csproj.GenerateResource.Cache
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\obj\Debug\product-maintenance-csharp.exe
+c:\users\78sar\documents\visual studio 2015\Projects\product-maintenance-csharp\product-maintenance-csharp\obj\Debug\product-maintenance-csharp.pdb
